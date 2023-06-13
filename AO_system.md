@@ -59,7 +59,7 @@ These can never be modified, and are always the Worst/Best possible outcome, and
 - Medicine: Treating wounds, injuries and diseases  
 - Sciences: Applying knowledge of any secific science.  
 - Craftsmanship: Usage of General Tools and Equipment, General Manufacture  
-- Cryptography: Encrypting Messages, Decoding Cyphers  
+- Cryptography: Encrypting Messages, Decoding Cyphers, Puzzle Solving
 - Scanners: Operating Sensors, Radars, and Scanners  
 - Knowledge: Knowledge about any specific subject, Recalling Information  
 - Survival: Ability to Survive  
@@ -129,7 +129,7 @@ While *Rusty* the skill decreases by 1 step for the next 5 tests, after which on
 A **Luck Point** may be given to a player by the GM as kind of a "Best Roleplayer/Strategist/Whatever" award.  
 They will be given sparingly, and are NON-STACKABLE.  
 
-You may use a *Luck Point* to:  
+You may use a *Luck Point* to:  (All are in some way modified by luck)
 - Return from an **Uncertain** death with an unlikely explanation.   
 - Gain your Luck $MOD to the next d6 rolls.   
 - add d10 to a roll.  

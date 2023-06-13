@@ -225,8 +225,7 @@ Low Power Infantry Personell Versions also exist, usually contained within a bel
     It is able to Kill Diseases, Internal and Extrenal Injuries, and Even Remove Scars and Slowly Restore Limbs.  
     This tho Comes with A Large Side Effect. Because of it's Whole-Body Form of Action it, in can slowly cause brain damage, Cancer, and Reproductive Disfunction.  
 
-# Drugs:  
-    Rimworld Baby!  
+## <!TODO> add a drug that helps against cybernetic enduced psychosis
 
 ## Luciferium:  
     GREATLY Inproves ALL Bodily functions and can slowly heal brain damage and restore limbs.  
@@ -381,7 +380,7 @@ The Range of Transmission is almost infinitevely variable based on the transmitt
 
 # Factions =====================================================  
 
-# Federation  
+# Federation ===================================================
 - Focusing on Military && Industry  
 - >95% Human  
 - High Total Wealth, Low Distribution  
@@ -396,7 +395,11 @@ The Range of Transmission is almost infinitevely variable based on the transmitt
 "Together We Stand, Together We Fight, Together we Fall"  
     - The Manifesto of Mankind, 2187y  
 
-# Alliance  
+## Titles: 
+
+<!TODO>
+
+# Alliance ===============================================  
 Alliance of Several Sub-Factions, Each with their own Government,  
 but Sharing Enconomic Gains,  
 - Focused on Medicine && Research  
@@ -411,20 +414,84 @@ but Sharing Enconomic Gains,
 "...as to reach Tranquility of Oneself is to Discover their Nature"  
     - on The Effigies and their Volatile Sources, 2235y  
 
-# Pirates  
+# Pirates  ================================================
 - Decentralized groups of outlaws  
 - Most Prominant within the Federation and Alliance due to their high Wealth  
 - <2% of Galaxies  
 
-# Rebellion  
+# Rebellion ===============================================
 - Centralized  
-- Engage in G against the Empire  
--  
+- Engage in Guerilla warfare against the Empire  
 
-# Empire  
+# Empire ==================================================
 - Monarchy, lead by a Stellarch  
 - Neo-Nazis  
 - >40% of Andromeda  
+
+## Titles:
+
+### Freeholder:
+    The Imperial title of freeholder is used by the Empire to signifies a fully-respected individual.   
+    Most Imperial citizens earn it while young through volunteer work or military service.  
+    The title is also offered to outsiders who act with honor in the eyes of the Empire.  
+
+### Yeoman: 
+    The Imperial title of yeoman is held by those who serve a noble lord in an important, specific way.
+    While it is not a noble title, it does give the holder the right to initiate connections the higher ranked.
+    This title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals.
+    Many important people spend their entire lives as yeomen, seeking success outside the strictures of nobility.
+
+### Acolyte: 
+    The title of acolyte is the first title of noble duty, an encompasses a wide range of practical positions.
+    Some acolytes are purely students, learning to lead troops or manage societies.
+    Others come from wealthy families and might own city buildings or farm complexes. 
+    During wartime, an acolyte might lead a platoon of troops, captain a small frigate, or serve their lord as an advisor. 
+    Their low rank within the nobility makes them paradoxically less useful as diplomats than yeomen. 
+    Sending a low-ranked acolyte to a negotiation can itself be seen as an insult, whereas a non-noble yeoman negotiator is seen only as the mouthpiece of his lord.
+
+### Knight/Dame: 
+    The title of knight is held by nobles who have largely passed their training, but who have not ascended to higher leadership roles. 
+    Many knights never advance further, and spend their lives as respected managers, advisors, or warriors. 
+    Most knights have some wealth, but a few remain quite poor while others may be very rich. 
+    In peacetime, a knight may manage a factory complex, commercial district, or small farming region. 
+    In war, some knights lead troop companies and assault squadrons, while others may engage in espionage, sabotage, and space combat.
+
+### Praetor: 
+    The title of praetor is a bridge between the service-oriented lower titles below and the power-holding nobility above.
+    During peacetime, a praetor will usually manage a city district, asteroid sector, agricultural region, or a space station.
+    During war, they take authority over the smallest combat units that fight independently - terrestrial troop cohorts, or space-borne destroyers or combat groups.
+
+### Baron/Baroness: 
+    The title of baron is the lowest of the middle nobility.
+    While lower titles focus on personal service at war or commerce under a lord, barons hold title as semi-independent rulers.
+    Each baron is subordinate to his liege lord, but his obligations are mostly in supplying wealth and troops, and not in personal service.
+    In the Empire, a baron will typically own a city sector, mining colony, or similar outfit. 
+    At wartime, a baron may captain a capital ship in name, or control a regiment of troops.
+
+### Count/Countess: 
+    The title of count is the middle rank of middle nobility. 
+    In peacetime, counts hold title to a city or colony, and might have a small personal fleet, possibly including capital ships.
+
+### Duke/Duchess: 
+    The Imperial title of duke is the highest of the middle nobility.
+    In the Empire, dukes control provinces, mega-cities, moons, or in rarer cases: entire planets.
+    At war, a duke can field a division-level force, or a fleet with capital ships and dozens of support craft.
+
+### Consul:
+    The Imperial title of consul is a lower level of high nobility. In the Empire, consuls control Solar Systems. 
+    At war, a consul can usually field an army-sized force of multiple divisions, supported by several fleets.
+    Some command from a super-capital ship or control space-based megastructures.
+    
+### Stellarch: 
+    The Imperial title of stellarch represents dominion over an entire Sector.
+    In the Empire, since intergalactic travel times are years long, stellarchs rule their systems with a great degree of independence. 
+    They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him.
+
+### Emperor/Empress: 
+    The Imperial title of emperor indicates sovereign dominion over the entire Empire, all its peoples, planets, and fleets. 
+    All other lords swear fealty to a high lord, while the Emperor swears fealty to no one. 
+    However, even the Emperor depends on the support of lower nobles to remain in power. 
+
 
 
 # Corporations =================================================  
@@ -471,10 +538,13 @@ A Nonprofit organization focusing on preservation, Documentation, and cataloguin
 A Peace driven Humanitarian organization whose main purpose is to provide asylum to those in need.  
 
 
-# Races =================================================  
+# Species =================================================  
 Technically Species, but its just somantics  
 
-# the Swarm  
+## Humans 
+... it's humans.
+
+## the Swarm  
 An Experiment lead as a cooporation between the Rayer Institute and the Federation gone Haywire,  
 aimed to allow Humanoid Species to live in uninhabitable areas (and create super troops).  
 - Primitive  
@@ -482,8 +552,38 @@ aimed to allow Humanoid Species to live in uninhabitable areas (and create super
 - Mutate Easily  
 - Lead by a Hive Mind, and form sub-Hive Minds  
 - Individuality possible but RARE  
-- Telepathy between Species Members  
+- Long Range Telepathy between Species Members  
 - Widely spread over all galaxies as an Invasive Species, usually in harsh enviroments  
+
+
+## Drakenian
+A Species of Cold Blooded Humanoid Reptiles. A Generally high wealth society with a strict class separation.  
+With the the Royality holing great power over the lower classes.   
+They view mutations that enhance the body (flying, fire breath, Regrow limbs) as a blessing, and a reason to be placed in a higher class.  
+- Are under the federation  
+- Cold Blooded  
+- Black Blood  
+- have Horns and Claws   
+- Carnivores (yes they will eat other humanoid species)  
+- Higher Resistant to Heat (+2 against heat)  
+- Colourblind, But can see very well in Infrared  
+- life expectancy max 120, but Mature Quickly
+- Homeland: Yanderya, a very resource rich planet
+
+
+## Revian 
+- Physically Weak and Fragile  
+- Telepathy: able to sense thoughts, emotions, and intentions though touch  
+- "look kinda like elves"  
+- Wear suits to protect their bodies  
+- They're a part of the Alliance  
+
+
+## Fenerox 
+- most still lead a hunter-gatherer lifestyle
+- 
+
+
 
 <!TODO>  
 
