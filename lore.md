@@ -542,17 +542,24 @@ A Peace driven Humanitarian organization whose main purpose is to provide asylum
 Technically Species, but its just somantics  
 
 ## Humans 
-... it's humans.
+- Well rounded 
+- Omnivores
+- Terrifying in their ability and will to survive anywhere.
+- The most prevasive and common Humanoid Species
+- first to achieve interstellar travel 
+- Homeland: Old Earth
+
 
 ## the Swarm  
 An Experiment lead as a cooporation between the Rayer Institute and the Federation gone Haywire,  
 aimed to allow Humanoid Species to live in uninhabitable areas (and create super troops).  
-- Primitive  
+- Primitive   
 - Extremely Addaptible  
-- Mutate Easily  
-- Lead by a Hive Mind, and form sub-Hive Minds  
+- Mutate Easily   
+- Will eat almost anything   
+- Lead by a Hive Mind, and form sub-Hive Minds   
 - Individuality possible but RARE  
-- Long Range Telepathy between Species Members  
+- Long Range Telepathy between Species Members   
 - Widely spread over all galaxies as an Invasive Species, usually in harsh enviroments  
 
 
@@ -560,7 +567,8 @@ aimed to allow Humanoid Species to live in uninhabitable areas (and create super
 A Species of Cold Blooded Humanoid Reptiles. A Generally high wealth society with a strict class separation.  
 With the the Royality holing great power over the lower classes.   
 They view mutations that enhance the body (flying, fire breath, Regrow limbs) as a blessing, and a reason to be placed in a higher class.  
-- Are under the federation  
+- Are under the federation/empire. 
+- Use Imperial ranks  
 - Cold Blooded  
 - Black Blood  
 - have Horns and Claws   
@@ -571,18 +579,30 @@ They view mutations that enhance the body (flying, fire breath, Regrow limbs) as
 - Homeland: Yanderya, a very resource rich planet
 
 
-## Revian 
-- Physically Weak and Fragile  
-- Telepathy: able to sense thoughts, emotions, and intentions though touch  
-- "look kinda like elves"  
+## Revian   
+- Physically Weak and Fragile   
+- Telepathy: able to sense thoughts, emotions, and intentions though touch   
+- "look kinda like elves"   
+- Herbivores; Dont require a lot of nutrients to survive  
 - Wear suits to protect their bodies  
 - They're a part of the Alliance  
 
 
-## Fenerox 
-- most still lead a hunter-gatherer lifestyle
-- 
+## Fenerox   
+- most still lead a hunter-gatherer lifestyle, and are not advanced technologically  
+- Ritualistic and Animist culture   
+- rare to see one outside of their homeland   
+- Omnivores  
+- regularly used as slaves by the "higher species"  
 
+
+## Avian <!TODO>
+While they briefly resamble the birds of Old Earth, they have evolved from an extraterrestial species. 
+They're driven by a Stong Faith, and governed by the Church. 
+The ones in power are the highest members of it's Clergy, with the most being held by the Great Prophet.
+- Their front limbs are devolved wings, but they are not able to fly.
+- Bird people
+- Either Carnivore or Herbivore
 
 
 <!TODO>  
