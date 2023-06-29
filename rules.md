@@ -92,7 +92,7 @@ These Depend on the Weapon, Situation, or Enviroment.
 
 Use your Head, not The Dice!   
 
-When Badly injured roll Survival:  
+When something Badly injures you, use that roll below:  
 1 - Blood, Guts, and Gore. Instant Death  
 2-5 - Bleeding out on the Ground. Permanent Injury.  
 6-10 - You're *fine*.. NOT! Death in a Few Days (Without Care)  
@@ -116,14 +116,15 @@ Engineering - Shields, Projectors, Comms. 1-3 People. One per Thing.
 whenever a character achieves a goal significant to the campaign or the character themself the GM may allow them to *Get Better*  
 (It also must make sense for the char to get better! No learning microbiology during a deseart advanture!)  
 
-roll a d3:  
-1 - the character gains a positive and negative *Quirk*    
-    example: You're better at shooting (+d2) but worse within in rooms.  
+roll a __d3__:  
+1 - the character gains a positive and negative *Trait*   
+    __example__: You're better at shooting but worse within in rooms.  
+    __or__: You're better at Strength, but cannot react quickly.
 
 2 - Increase the **Luck Point** Max Cap by 1.    
 
 3 - the most used skill increases one step (never above d10);   
-    if the skill cannot increase choose another.   
+    (or recently learned) if the skill cannot increase choose another.   
 
 The Character also becomes *Rusty* in their least used skill (Stackable).  
 While *Rusty* the skill decreases by 1 step for the next 5 tests, after which one stack of *Rusty* is removed.  
@@ -133,11 +134,13 @@ While *Rusty* the skill decreases by 1 step for the next 5 tests, after which on
 A **Luck Point** may be given to a player by the GM as kind of a "Best Roleplayer/Strategist/Whatever" award.  
 They will be given sparingly, and are NON-STACKABLE.  
 
-You may use a *Luck Point* to:  (All are in some way modified by luck)
+You may use a __Luck Point__ to:  (All are in some way modified by luck)
 - Return from an **Uncertain** death with an unlikely explanation.   
-- Gain your Luck $MOD to the next d6 rolls.   
-- add d10 to a roll.  
+- Gain your Luck *$MOD* to the next __d6__ rolls.   
+- add __d10__ to a roll.  
 - Neutralize a Fumble.  
 - Cause a Positive event from the table to happen, But the GM 'gains a luck point' to cause a negative event in teh future  
 - All party members use a luck point to cause a positive event to happen.   
+
+
 
