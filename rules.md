@@ -117,9 +117,13 @@ whenever a character achieves a goal significant to the campaign or the characte
 (It also must make sense for the char to get better! No learning microbiology during a deseart advanture!)  
 
 roll a d3:  
-1 - the character gains a positive and negative *Quirk*  
-2 - Recieve a **Luck Point**.  
-3 - the most used skill increases one step (never above d10); if the skill cannot increase choose another.  
+1 - the character gains a positive and negative *Quirk*    
+    example: You're better at shooting (+d2) but worse within in rooms.  
+
+2 - Increase the **Luck Point** Max Cap by 1.    
+
+3 - the most used skill increases one step (never above d10);   
+    if the skill cannot increase choose another.   
 
 The Character also becomes *Rusty* in their least used skill (Stackable).  
 While *Rusty* the skill decreases by 1 step for the next 5 tests, after which one stack of *Rusty* is removed.  
