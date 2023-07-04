@@ -92,13 +92,13 @@ These Depend on the Weapon, Situation, or Enviroment.
 
 Use your Head, not The Dice!   
 
-When something Badly injures you, use that roll below:  
+on a Failure to Dodge (__d6__) 
 1 - Blood, Guts, and Gore. Instant Death  
-2-5 - Bleeding out on the Ground. Permanent Injury.  
-6-10 - You're *fine*.. NOT! Death in a Few Days (Without Care)  
-11-15 - Badly Beaten Up. -3 to everything until Rest.   
-16-19+ - Bruises n Scratches. You're fine.  
-20 - Absolute Idiot! The enemy Harm Themselfs.   
+2 - Bleeding out on the Ground. Permanent Injury.  
+3 - You're *fine*.. NOT! Death in a Few Days (Without Good Care)  
+4 - Badly Beaten Up. -3 to everything until Rest.   
+5 - Bruises n Scratches. You're fine.  
+6 - Absolute Idiot! The enemy Harm Themselfs.   
 
 ## Vehicle/Ship Combat:
 Weapons - 1 Person for Small Ships. -3 Per Person Missing.  
