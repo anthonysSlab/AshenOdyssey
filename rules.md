@@ -92,7 +92,7 @@ These Depend on the Weapon, Situation, or Enviroment.
 
 Use your Head, not The Dice!   
 
-on a Failure to Dodge you die.
+on a Failure to Dodge you die(Jk).
 
 ## Vehicle/Ship Combat:
 Weapons - 1 Person for Small Ships. -3 Per Person Missing.  
