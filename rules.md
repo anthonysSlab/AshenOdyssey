@@ -1,5 +1,5 @@
 # Tests =====================================
-Most tests' DR will be announced by the GM before the test is made, Only tests that the neither character nor players know the difficulty of may have a hidden DR.
+The DR for tests of Unknown Difficulty Will not be Announced  
 
 # DR | Generic Term
 4 - People will laugh at you for failing  
@@ -14,7 +14,7 @@ Most tests' DR will be announced by the GM before the test is made, Only tests t
 22 - nigh impossible  
 24 - shold not even be possible  
 
-to make a test roll d20 + $MOD  
+all tests are d20 + $MOD  
 
 $MOD consists of:  
 - skill (dice)  
@@ -29,7 +29,6 @@ The group bonus is determined by the amount of people helping and their skill di
 +1 - d2-d6  
 +2 - d8-d10  
 +3 - d12  
-The Inverse applies to negative $mod   
 
 
 # Crits & Fumbles =====================================
@@ -87,12 +86,11 @@ For every positive there must be an equal negative, ex:
 +d12 - Planet-Leading Master (not on character creation)  
 
 # Combat Stuff: ===================================================
-Roll $ATTACK when attacking and $DODGE when dodging... DUHHHH  
-These Depend on the Weapon, Situation, or Enviroment.  
+$ATTACK and $DODGE depend on the Situation, Enviroment, &c.  
 
-Use your Head, not The Dice!   
+**Use your Head, not The Dice!**  
 
-on a Failure to Dodge you die(Jk).
+on a Failure to Dodge you die
 
 ## Vehicle/Ship Combat:
 Weapons - 1 Person for Small Ships. -3 Per Person Missing.  
@@ -100,10 +98,7 @@ Piloting - 1-2 People. +2 if there's two. -3 if None.
 Scanners - 1 Person on Small Ships. -3 Per Person Missing.  
 Engineering - Shields, Projectors, Comms. 1-3 People. One per Thing.  
 
-3 rolls per combat, Choose em Well. (Possibly More on a Larger Ship)   
-
-## Infantry Combat:
-1 Roll per Player!  
+3 rolls per combat, Choose them Well. (Possibly More on a Larger Ship)   
 
 
 # Getting Better (and Worse) ======================================
@@ -112,8 +107,8 @@ whenever a character achieves a goal significant to the campaign or the characte
 
 roll a __d3__:  
 1 - the character gains a positive and negative *Trait*   
-    __example__: You're better at shooting but worse within in rooms.  
-    __or__: You're better at Strength, but cannot react quickly.
+    __example__: You're better at shooting within open spaces but worse within in rooms.  
+    __or__: You're stronger, but cannot react with it quickly.
 
 2 - Increase the **Luck Point** Max Cap by 1.    
 
@@ -126,15 +121,12 @@ While *Rusty* the skill decreases by 1 step for the next 5 tests, after which on
 
 # Luck Points =================================
 A **Luck Point** may be given to a player by the GM as kind of a "Best Roleplayer/Strategist/Whatever" award.  
-They will be given sparingly, and are NON-STACKABLE.  
+They Will be Given *Sparingly*  
 
-You may use a __Luck Point__ to:  (All are in some way modified by luck)
+You may request one to be granted to you, but doing so also gives the GM one.  
+
+You may use a __Luck Point__ to:  
 - Return from an **Uncertain** death with an unlikely explanation.   
-- Gain your Luck *$MOD* to the next __d6__ rolls.   
 - add __d10__ to a roll.  
 - Neutralize a Fumble.  
-- Cause a Positive event from the table to happen, But the GM 'gains a luck point' to cause a negative event in teh future  
-- All party members use a luck point to cause a positive event to happen.   
-
-
 
