@@ -71,6 +71,8 @@ For every positive there must be an equal negative, ex:
 +d4 - Melee  
 [------------------]  
 
+*you may choose up to 7 total*
+
 # Dice | Generic Term
 -d12 - Incapable of (Not on character creation)  
 -d10 - Barely heard of  
