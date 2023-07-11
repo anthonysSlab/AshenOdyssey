@@ -23,12 +23,7 @@ $MOD consists of:
 
 **non-player characters never make tests**  
 
-## Group Rolls
-The group bonus is determined by the amount of people helping and their skill dice.  
-
-+1 - d2-d6  
-+2 - d8-d10  
-+3 - d12  
+For Group Rolls: +1 per Character Helping.
 
 
 # Crits & Fumbles =====================================
@@ -47,18 +42,15 @@ These can never be modified, and are always the Worst/Best possible outcome, and
 - Tech: Hacking, Software, Coding  
 - Engineering: Repair, 5-minute Crafts, manufacturing  
 - Piloting: Usage and Driving of Spacecraft, Aircraft, and Vehicles  
-- Leadership: Giving Orders, Inspiring Others, Caution  
-- Social: Convincing, Diplomacy, Negotiations, Performance  
+- Social: Convincing, Diplomacy, Negotiations, Performance, Leadership  
 - Navigation: Finding Your Way, Reading Maps, Choosing the best Route  
 - Sense: Seeing, Hearing, Touch, Taste, Smell, Infantry Weapons  
-- Agility: precisely and quickly executing actions  
-- Strength: Carrying, Pushing, Melee Fighting  
-- Smarts: IQ, Solving Puzzles, Maths  
+- Agility: precisely and quickly executing actions, Melee Fighting  
+- Strength: Carrying, Pushing, Destroying Things  
+- Smarts: IQ, Maths, Encrypting Messages, Puzzle Solving  
 - Luck: Luck  
 - Medicine: Treating wounds, injuries and diseases  
-- Sciences: Applying knowledge of any secific science.  
-- Craftsmanship: Usage of General Tools and Equipment, General Manufacture  
-- Cryptography: Encrypting Messages, Decoding Cyphers, Puzzle Solving
+- Science: Applying knowledge of any secific science.  
 - Scanners: Operating Sensors, Radars, and Scanners  
 - Knowledge: Knowledge about any specific subject, Recalling Information  
 - Survival: Ability to Survive  
