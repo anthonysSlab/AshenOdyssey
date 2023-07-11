@@ -48,7 +48,6 @@ These can never be modified, and are always the Worst/Best possible outcome, and
 - Agility: precisely and quickly executing actions, Melee Fighting  
 - Strength: Carrying, Pushing, Destroying Things  
 - Smarts: IQ, Maths, Encrypting Messages, Puzzle Solving  
-- Luck: Luck  
 - Medicine: Treating wounds, injuries and diseases  
 - Science: Applying knowledge of any secific science.  
 - Scanners: Operating Sensors, Radars, and Scanners  
