@@ -8,17 +8,17 @@ The DR for tests of Unknown Difficulty Will not be Announced
 10 - Routine  
 12 - normal  
 14 - minor difficulty  
-16 - challanging  
+16 - challenging  
 18 - really hard  
 20 - mercilessly demanding  
 22 - nigh impossible  
-24 - shold not even be possible  
+24 - should not even be possible  
 
 all tests are d20 + $MOD  
 
 $MOD consists of:  
 - skill (dice)  
-- enviromental (flat)  
+- environmental (flat)  
 - group bonus (flat)  
 
 **non-player characters never make tests**  
@@ -31,7 +31,7 @@ nat 1 - Fumble
 nat 20 - Crit  
 
 These can never be modified, and are always the Worst/Best possible outcome, and when Either happens an Unlikely situations occurs, ie:  
-- A reinforcment of Guards arrives  
+- A reinforcement of Guards arrives  
 - the Terminal was a Trap and now your location is exposed  
 - The Destroyed machinery springs to live with only superficial damage sustained  
 
@@ -49,7 +49,7 @@ These can never be modified, and are always the Worst/Best possible outcome, and
 - Strength: Carrying, Pushing, Destroying Things  
 - Smarts: IQ, Maths, Encrypting Messages, Puzzle Solving  
 - Medicine: Treating wounds, injuries and diseases  
-- Science: Applying knowledge of any secific science.  
+- Science: Applying knowledge of any specific science.  
 - Scanners: Operating Sensors, Radars, and Scanners  
 - Knowledge: Knowledge about any specific subject, Recalling Information  
 - Survival: Ability to Survive  
@@ -79,7 +79,7 @@ For every positive there must be an equal negative, ex:
 +d12 - Planet-Leading Master (not on character creation)  
 
 # Combat Stuff: ===================================================
-$ATTACK and $DODGE depend on the Situation, Enviroment, &c.  
+$ATTACK and $DODGE depend on the Situation, Environment, &c.  
 
 **Use your Head, not The Dice!**  
 
@@ -96,7 +96,7 @@ Engineering - Shields, Projectors, Comms. 1-3 People. One per Thing.
 
 # Getting Better (and Worse) ======================================
 whenever a character achieves a goal significant to the campaign or the character themself the GM may allow them to *Get Better*  
-(It also must make sense for the char to get better! No learning microbiology during a deseart advanture!)  
+(It also must make sense for the char to get better! No learning microbiology during a desert adventure!)  
 
 roll a __d3__:  
 1 - the character gains a positive and negative *Trait*   
